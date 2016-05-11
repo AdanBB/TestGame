@@ -1,11 +1,11 @@
-# TestGame
+# Title
 
-HolaMundo
+## Secondary Title
 
- - Punto 1 
- - Punto 2 
- - Punto 3
+Sample Text
 
-## Mini TestMundo
+ - List Member 1 
+ - List Member 2 
+ - List Member 3
 
 Test Repository to try new GitHub settings.
